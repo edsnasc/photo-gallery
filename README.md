@@ -20,7 +20,7 @@
 
 Project for setting up a photo gallery
 
-# Look 🛰
+# Preview 🛰
 
 <p align="center">
   <img alt="Galery" src=https://media.giphy.com/media/UGJNmvViKQSHMtTd2C/giphy.gif>
